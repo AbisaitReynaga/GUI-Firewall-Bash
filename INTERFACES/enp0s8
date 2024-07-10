@@ -1,7 +1,0 @@
-#LAN INTERFACE
-#INTERFACE enp0s8
-#PROFILE red_empleados
-address 192.168.50.10
-network 192.168.50.0
-netmask 255.255.255.0
-broadcast  192.168.50.255

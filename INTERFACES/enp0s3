@@ -1,8 +1,0 @@
-#WAN INTERFACE
-#INTERFACE enp0s3
-#PROFILE Enlace_Coeficiente
-address 192.168.1.200
-gateway 255.255.255.0
-netmask 192.168.1.1
-dns1     8.8.8.8
-dns2 8.8.4.4
