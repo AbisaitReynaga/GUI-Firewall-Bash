@@ -1,0 +1,8 @@
+#WAN INTERFACE 
+#INTERFACE enp0s5
+#PROFILE Enlace Telmex
+address 172.16.1.200
+gateway 255.255.255.0
+netmask 172.16.1.1
+dns     8.8.8.8
+alt-dns 8.8.4.4

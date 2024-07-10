@@ -1,0 +1,9 @@
+#VLAN INTERFACE
+#VLAN_NUMBER 80
+auto vlan80
+iface vlan80 inet static
+             address 186.10.1.100
+             network 186.10.1.0
+             netmask 255.255.255.0
+             broadcast 186.10.1.255 
+             vlan_raw_device 

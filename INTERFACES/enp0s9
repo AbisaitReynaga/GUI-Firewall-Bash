@@ -1,0 +1,8 @@
+#WAN INTERFACE 
+#INTERFACE enp0s9
+#PROFILE 
+address 
+gateway 
+netmask 
+dns1 
+dns2 

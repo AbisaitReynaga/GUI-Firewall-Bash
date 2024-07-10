@@ -1,0 +1,9 @@
+#VLAN INTERFACE
+#INTERFACE enp0s5
+#PROFILE Planta_Baja_Contadores
+#VLAN NUMBER 10
+#DHCP Disable
+address 172.16.50.10
+network 172.16.50.0
+netmask 255.255.255.0
+broadcast  172.16.50.255

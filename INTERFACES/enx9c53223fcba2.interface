@@ -1,0 +1,7 @@
+# LAN INTERFACE
+ auto enx9c53223fcba2
+ iface enx9c53223fcba2 inet static
+         address 192.168.1.200
+         network 192.168.1.0
+         netmask 255.255.255.0
+         broadcast 192.168.1.255
